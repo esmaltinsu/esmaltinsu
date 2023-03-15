@@ -28,13 +28,14 @@ src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoCo
 
 <hr>
 
-<h4>🌱  I'm currently learning...</h4>
+<h4>🔍I'm currently learning ...</h4>
 <p >
   <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;<img 
 </p>
 
 
-<p align='right'>
+<p 
+   align='right'>
 <h4>💬  Sometimes I like to write things here...</h4>
   <a href="https://medium.com/@esmaltinsu"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
