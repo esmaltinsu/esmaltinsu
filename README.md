@@ -7,14 +7,14 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/esmaltinsu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:esmaltinsu@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:esmaltinsu@gmail.com?subject=Hi%20Esma"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
 
 <hr>
 
-<h4>🔭  I’m currently working with ...</h4>
+<h4>🪄I’m currently working with ...</h4>
 
 <h5>DevOps</h5>
 <p >
