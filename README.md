@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/esmaltinsu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tr.linkedin.com/in/esma-altinsu?original_referer=https%3A%2F%2Fwww.google.com%2F"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:esmaltinsu@gmail.com?subject=Hi%20Esma"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
