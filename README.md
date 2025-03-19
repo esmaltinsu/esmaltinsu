@@ -1,5 +1,5 @@
 
-<h1 align='center'> Hi there 👋, I'm Esma and I'm a Jr. DevOps Engineer </h1>
+<h1 align='center'> Hi there 👋, I'm Esma and I'm DevOps Engineer </h1>
 
 <p align='center'>
   I live in Antalya, Turkey 
